@@ -1,0 +1,28 @@
+---
+title: "Juvenile snowshoe hares: exploratory report"
+author: "By: Allison Gracer"
+date: "11/3/2021"
+output: 
+  html_document: 
+    theme: paper
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+library(tidyverse)
+library(ggpubr)
+library(broom) 
+library(equatiomatic)
+```
+
+### 1. Overview
+
+### 2. Data and methods
+
+### 3. Preliminary results
+
+### Summary
+
+### Citations
+
+Kielland, K., F.S. Chapin, R.W. Ruess, and Bonanza Creek LTER. 2017. Snowshoe hare physical data in Bonanza Creek Experimental Forest: 1999-Present ver 22. Environmental Data Initiative. https://doi.org/10.6073/pasta/03dce4856d79b91557d8e6ce2cbcdc14
